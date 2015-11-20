@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: sample-monitor
+    name: Hystrix-Phase1
   cloud:
     config:
       discovery:

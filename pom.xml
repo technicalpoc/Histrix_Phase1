@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.bk</groupId>
-	<artifactId>sample-monitor</artifactId>
+	<artifactId>sample-hystrix</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>sample-monitor</name>
+	<name>sample-hystrix</name>
 	<description>Sample Monitoring Dashboard - Turbine and Hystrix Dashboard</description>
 
 	<parent>
